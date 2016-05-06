@@ -1,1 +1,1 @@
-<?php echo " This is php file "?>
+text local folder
